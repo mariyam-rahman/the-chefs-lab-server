@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "name": "Maria Lopez",
+    "imageUrl": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?t=st=1683037335~exp=1683037935~hmac=17a1b2e93900d58f44ac7cd81bf71d233ce7949895d825bdf218a5f11d043a79",
+    "yearsOfExperience": 15,
+    "numOfRecipes": 75,
+    "likes": 25000,
+    "bio": "Maria Lopez is a Mexican chef with 15 years of experience in the culinary industry. She is passionate about creating authentic Mexican dishes using traditional cooking methods and fresh, high-quality ingredients. Maria has created over 75 delicious and flavorful recipes that showcase the diversity of Mexican cuisine. Follow her for more amazing recipe ideas!",
+
+    "recipes": [
+      {
+        "recipeName": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=900&t=st=1683037341~exp=1683037941~hmac=e75b825f65d9e8119c7735c4465f400ee9ec74dc4ac841d20246a9745658087d",
+        "ingredients": [
+          "poblano peppers",
+          "ground beef",
+          "onion",
+          "garlic",
+          "tomatoes"
+        ],
+        "cookingMethod": "1. Roast poblano peppers until the skin is charred. 2. Remove skin and seeds from peppers. 3. Brown ground beef in a pan with chopped onion and garlic. 4. Add chopped tomatoes and cook until the sauce thickens. 5. Stuff the peppers with the beef mixture. 6. Coat the stuffed peppers in egg batter and fry until golden brown. Serve with salsa and guacamole.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Tacos al Pastor",
+        "ingredients": [
+          "pork shoulder",
+          "pineapple",
+          "onion",
+          "cilantro",
+          "corn tortillas"
+        ],
+        "cookingMethod": "1. Marinate pork shoulder in a mixture of pineapple juice, chili powder, and garlic. 2. Roast the pork on a spit or in the oven until it is cooked through and crispy on the outside. 3. Dice the pork and serve on warm corn tortillas with chopped onion, cilantro, and a slice of fresh pineapple.",
+        "rating": 4.9
+      },
+      {
+        "recipeName": "Sopa de Tortilla",
+        "ingredients": [
+          "tomatoes",
+          "onion",
+          "garlic",
+          "chicken stock",
+          "tortilla chips"
+        ],
+        "cookingMethod": "1. Roast tomatoes, onion, and garlic until charred. 2. Puree the roasted vegetables in a blender with chicken stock. 3. Pour the mixture into a pot and bring to a simmer. 4. Crush tortilla chips into the soup and simmer for 5 minutes. 5. Serve with avocado, cilantro, and a squeeze of lime.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Patricia Quintana",
+    "imageUrl": "https://img.freepik.com/premium-photo/smiling-female-chef-with-cut-vegetables-kitchen_13339-42852.jpg?w=900",
+    "yearsOfExperience": 30,
+    "numOfRecipes": 120,
+    "likes": 45000,
+    "bio": "Patricia Quintana was a legendary Mexican chef with over 30 years of experience in the culinary world. She was a pioneer in Mexican cuisine and a leader in the field of gastronomy. Patricia created over 120 innovative and delicious recipes that showcased the beauty and complexity of Mexican flavors. Her legacy lives on through her recipes, and she continues to inspire chefs around the world.",
+    "viewRecipesBtn": "https://www.example.com/patricia-quintana/recipes",
+    "recipes": [
+      {
+        "recipeName": "Mole Poblano",
+        "ingredients": ["dried chiles", "spices", "nuts", "seeds", "chocolate"],
+        "cookingMethod": "1. Toast dried chiles and spices until fragrant. 2. Grind the toasted chiles and spices in a blender with nuts and seeds. 3. Toast the ground mixture in a pan until it is dark and aromatic. 4. Add chicken stock and simmer for 30 minutes. 5. Add chocolate and stir until it melts. 6. Serve over chicken or turkey with rice and tortillas.",
+        "rating": 4.7
+      },
+      {
+        "recipeName": "Tamales",
+        "ingredients": [
+          "corn masa",
+          "pork",
+          "tomatillo",
+          "garlic",
+          "dried corn husks"
+        ],
+        "cookingMethod": "1. Soak dried corn husks in water until pliable. 2. Mix corn masa with chicken stock and spices to create a dough. 3. Spread the dough onto the corn husks and top with cooked pork, tomatillo sauce, and chopped garlic. 4. Roll the husks to form tamales and steam for 45 minutes. 5. Serve hot with salsa and guacamole.",
+        "rating": 4.6
+      },
+      {
+        "recipeName": "Ceviche",
+        "ingredients": ["fish", "lime juice", "onion", "cilantro", "jalapeno"],
+        "cookingMethod": "1. Cut fish into small pieces and marinate in lime juice for 30 minutes. 2. Drain the excess lime juice and mix with chopped onion, cilantro, and jalapeno. 3. Serve with tortilla chips or tostadas.",
+        "rating": 4.9
+      }
+    ]
+  },
+
+  {
+    "id": 3,
+    "name": "Jorge Hernandez",
+    "imageUrl": "https://img.freepik.com/free-photo/portrait-male-chef-kitchen-holding-plate-food_23-2149646275.jpg?w=740&t=st=1683037483~exp=1683038083~hmac=2ce10c6135086ea9953527771e3d7a329d1e98b9063ad99d1a2ea4a47b6a8a49",
+    "yearsOfExperience": 20,
+    "numOfRecipes": 100,
+    "likes": 35000,
+    "bio": "Jorge Hernandez is a renowned Mexican chef with over 20 years of experience in the culinary industry. He is known for his innovative approach to traditional Mexican cuisine, using fresh, locally-sourced ingredients to create unique and flavorful dishes. Jorge has developed over 100 recipes that showcase the rich and diverse flavors of Mexican cuisine. Follow him to discover new and exciting Mexican dishes!",
+    "recipes": [
+      {
+        "recipeName": "Mole Poblano",
+        "ingredients": [
+          "dried chiles",
+          "spices",
+          "nuts",
+          "raisins",
+          "chocolate"
+        ],
+        "cookingMethod": "1. Toast dried chiles, spices, nuts, and raisins in a dry pan until fragrant. 2. Soak the toasted ingredients in hot water until soft. 3. Blend the ingredients with chocolate to create a smooth paste. 4. Cook the paste in a pot with chicken"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Diego Hernandez",
+    "imageUrl": "https://img.freepik.com/free-photo/chef-kitchen_23-2148006182.jpg?w=900&t=st=1683037650~exp=1683038250~hmac=97cb14ead259b8ce0e5962f9d04b98c623f4bbcd1702c44ac921d918d99d83ce",
+    "yearsOfExperience": 12,
+    "numOfRecipes": 60,
+    "likes": 18000,
+    "bio": "Diego Hernandez is a renowned Mexican chef with over a decade of experience in the culinary world. He is known for his innovative takes on traditional Mexican dishes and his use of locally-sourced ingredients. Diego has created over 60 delicious and inventive recipes that highlight the flavors and textures of Mexican cuisine. Follow him for inspiration and ideas!",
+
+    "recipes": [
+      {
+        "recipeName": "Carnitas Tacos",
+        "ingredients": [
+          "pork shoulder",
+          "garlic",
+          "onion",
+          "orange juice",
+          "corn tortillas"
+        ],
+        "cookingMethod": "1. Cut pork shoulder into bite-sized pieces. 2. Season with salt, pepper, and garlic. 3. Cook the pork in a slow cooker with sliced onion and orange juice until tender. 4. Shred the pork and serve on warm corn tortillas with chopped onion and cilantro.",
+        "rating": 4.7
+      },
+      {
+        "recipeName": "Enchiladas Suizas",
+        "ingredients": [
+          "chicken breast",
+          "sour cream",
+          "green chiles",
+          "corn tortillas",
+          "queso fresco"
+        ],
+        "cookingMethod": "1. Poach chicken breast in chicken broth until cooked through. 2. Shred the chicken and mix with sour cream and chopped green chiles. 3. Dip corn tortillas in warm chicken broth to soften. 4. Stuff the tortillas with the chicken mixture and roll up. 5. Place the rolled tortillas in a baking dish and top with more chicken broth and crumbled queso fresco. 6. Bake until the cheese is melted and bubbly.",
+        "rating": 4.9
+      },
+      {
+        "recipeName": "Churros",
+        "ingredients": ["flour", "butter", "water", "eggs", "cinnamon sugar"],
+        "cookingMethod": "1. Heat butter and water in a saucepan until boiling. 2. Add flour and stir until the mixture forms a ball. 3. Remove from heat and add eggs, one at a time, stirring until smooth. 4. Heat vegetable oil in a deep fryer or saucepan. 5. Pipe the churro dough into the hot oil, cutting the dough into pieces with scissors as it comes out of the piping bag. 6. Fry until golden brown and crispy. 7. Roll the churros in cinnamon sugar and serve warm.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Enrique Olvera",
+    "imageUrl": "https://img.freepik.com/free-photo/studio-portrait-positive-cook-male-holds-eggplant_613910-9899.jpg?w=740&t=st=1683037599~exp=1683038199~hmac=895a7eccfccec1056ac29a892eccb9b3be6189a57f6cef6284f100ec0ba43852",
+    "yearsOfExperience": 25,
+    "numOfRecipes": 120,
+    "likes": 45000,
+    "bio": "Enrique Olvera is a renowned Mexican chef with 25 years of experience in the culinary industry. He is widely regarded as one of the most innovative chefs in Mexico and has received numerous awards and accolades for his work. Enrique has created over 120 inventive and flavorful recipes that push the boundaries of Mexican cuisine. Follow him for a taste of the unexpected!",
+    "viewRecipesBtn": "https://www.example.com/enrique-olvera/recipes",
+    "recipes": [
+      {
+        "recipeName": "Mole Negro",
+        "ingredients": ["dried chiles", "spices", "nuts", "seeds", "chicken"],
+        "cookingMethod": "1. Toast dried chiles, spices, nuts, and seeds until fragrant. 2. Grind the toasted ingredients into a powder. 3. Cook the chicken in a pot with the ground ingredients, tomatoes, and chicken broth until tender. 4. Blend the sauce until smooth. 5. Serve with rice and tortillas.",
+        "rating": 4.7
+      },
+      {
+        "recipeName": "Pulpo a la Parilla",
+        "ingredients": [
+          "octopus",
+          "potatoes",
+          "paprika",
+          "garlic",
+          "olive oil"
+        ],
+        "cookingMethod": "1. Boil the octopus until tender. 2. Cut the cooked octopus into bite-sized pieces. 3. Season the octopus with paprika, garlic, and olive oil. 4. Grill the seasoned octopus until slightly charred. 5. Serve with roasted potatoes and a drizzle of olive oil.",
+        "rating": 4.9
+      }
+    ]
+  },
+
+  {
+    "id": 6,
+    "name": "Maria Lopez",
+    "imageUrl": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?t=st=1683037335~exp=1683037935~hmac=17a1b2e93900d58f44ac7cd81bf71d233ce7949895d825bdf218a5f11d043a79",
+    "yearsOfExperience": 15,
+    "numOfRecipes": 75,
+    "likes": 25000,
+    "bio": "Maria Lopez is a Mexican chef with 15 years of experience in the culinary industry. She is passionate about creating authentic Mexican dishes using traditional cooking methods and fresh, high-quality ingredients. Maria has created over 75 delicious and flavorful recipes that showcase the diversity of Mexican cuisine. Follow her for more amazing recipe ideas!",
+
+    "recipes": [
+      {
+        "recipeName": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=900&t=st=1683037341~exp=1683037941~hmac=e75b825f65d9e8119c7735c4465f400ee9ec74dc4ac841d20246a9745658087d",
+        "ingredients": [
+          "poblano peppers",
+          "ground beef",
+          "onion",
+          "garlic",
+          "tomatoes"
+        ],
+        "cookingMethod": "1. Roast poblano peppers until the skin is charred. 2. Remove skin and seeds from peppers. 3. Brown ground beef in a pan with chopped onion and garlic. 4. Add chopped tomatoes and cook until the sauce thickens. 5. Stuff the peppers with the beef mixture. 6. Coat the stuffed peppers in egg batter and fry until golden brown. Serve with salsa and guacamole.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Tacos al Pastor",
+        "ingredients": [
+          "pork shoulder",
+          "pineapple",
+          "onion",
+          "cilantro",
+          "corn tortillas"
+        ],
+        "cookingMethod": "1. Marinate pork shoulder in a mixture of pineapple juice, chili powder, and garlic. 2. Roast the pork on a spit or in the oven until it is cooked through and crispy on the outside. 3. Dice the pork and serve on warm corn tortillas with chopped onion, cilantro, and a slice of fresh pineapple.",
+        "rating": 4.9
+      }
+    ]
+  }
+]
